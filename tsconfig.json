@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "strictNullChecks": true,
+    "module": "commonjs",
+    "target": "ES2019",
+    "types": ["node"]
+  }
+}
